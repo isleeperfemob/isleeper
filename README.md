@@ -2,7 +2,7 @@
 
 https://apps.apple.com/cn/app/id1622341132
 
-【意见反馈】(https://github.com/isleeperfemob/isleeper/issues/1)
+[[意见反馈]](https://github.com/isleeperfemob/isleeper/issues/1)
 
 ISleeper无需网络连接，无需任何其他设备，只需要您的手机即可完成睡眠监测，通过神经网络算法能够准确地记录用户的睡眠习惯和睡眠周期。
 
